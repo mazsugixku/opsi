@@ -1,7 +1,7 @@
 ------WebKitFormBoundaryacak16
 Content-Disposition: form-data; name="uuid"
 
-fcf663c5-7e8e-5c71-2b2d-acak12a
+fcf663c5-7e8e-5c71-2b2d-acak12
 ------WebKitFormBoundaryacak16
 Content-Disposition: form-data; name="partner_name"
 
@@ -25,11 +25,11 @@ Content-Disposition: form-data; name="status"
 ------WebKitFormBoundaryacak16
 Content-Disposition: form-data; name="invoice_items"
 
-[{"item_description":"descb","item_name":"nameb","price":14720,"product_id":"idbarang","quantity":1,"tax_id":"","uom_id":"05429f81-f62e-41cd-ba00-2c4245c060e7","tax_total":0,"total":14720,"uuid":"3f669eba-ff9c-7f76-602d-acak12","discount":0}]
+[{"item_description":"descb","item_name":"nameb","price":14720,"product_id":"idbarang","quantity":1,"tax_id":"","uom_id":"05429f81-f62e-41cd-ba00-2c4245c060e7","tax_total":0,"total":14720,"uuid":"3f669eba-ff9c-7f76-602d-acak12a","discount":0}]
 ------WebKitFormBoundaryacak16
 Content-Disposition: form-data; name="items"
 
-[{"item_description":"descb","item_name":"nameb","price":14720,"product_id":"idbarang","quantity":1,"tax_id":"","uom_id":"05429f81-f62e-41cd-ba00-2c4245c060e7","tax_total":0,"total":14720,"uuid":"3f669eba-ff9c-7f76-602d-acak12","discount":0}]
+[{"item_description":"descb","item_name":"nameb","price":14720,"product_id":"idbarang","quantity":1,"tax_id":"","uom_id":"05429f81-f62e-41cd-ba00-2c4245c060e7","tax_total":0,"total":14720,"uuid":"3f669eba-ff9c-7f76-602d-acak12a","discount":0}]
 ------WebKitFormBoundaryacak16
 Content-Disposition: form-data; name="terms"
 
